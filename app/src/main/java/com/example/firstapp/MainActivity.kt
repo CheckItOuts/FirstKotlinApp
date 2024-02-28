@@ -27,8 +27,8 @@ class MainActivity : AppCompatActivity() , View.OnClickListener {
     }
 
     override fun onClick(v: View?){
-        var email =emailIn.text.toString();
-        var password = passwordIn.text.toString();
+        val email =emailIn.text.toString();
+        val password = passwordIn.text.toString();
         if (email=="jean.jean@email.com" && password=="password")
         {
             resText.text = "Connecté !"
