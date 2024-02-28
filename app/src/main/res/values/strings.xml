@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="welcome_text">Bienvenue !</string>
+    <string name="email_help">Entrez votre email</string>
+    <string name="password_help">Entrez votre mot de passe</string>
+    <string name="button_login">Se connecter</string>
+    <string name="res_text">Résultat</string>
+</resources>
